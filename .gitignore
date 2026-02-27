@@ -1,0 +1,9 @@
+.env
+proxies.txt
+cookies.json
+searches.json
+*.db
+*.log
+debug_*.html
+__pycache__/
+venv/
